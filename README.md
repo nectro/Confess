@@ -1,7 +1,7 @@
 # Confess
 Its a website which allows people to confess something to the user if he/she wants them to without displaying their name.
 
-NOTE::: PHP backend yet to be added in place of html file
+NOTE:: PHP backend yet to be added in place of html file.
 
 Instructions of using it:-
 
@@ -12,5 +12,5 @@ Instructions of using it:-
  
  ^copy the link and share it on any social media from.
  
- ^a person will click it and a he will be redirected to a form where he could type his confession 
+ ^a person will click it and he will be redirected to a form where he could type his confession 
  and send it to the user without displaying his name.
